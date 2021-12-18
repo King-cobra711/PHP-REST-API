@@ -13,6 +13,6 @@ In order to achieve this Token based authentication has been implamented.
 
 
 ## Resources
-- [Postman](https://www.postman.com/) for API testing
+- [Postman](https://www.postman.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Udemy - Michael Spinks](https://www.udemy.com/course/create-a-rest-api-using-basic-php-with-token-authentication/)
