@@ -11,6 +11,10 @@ In order to achieve this Token based authentication has been implamented.
 - [Postman](https://www.postman.com/) for API testing
 - [MAMP](https://www.mamp.info/en/mac/)
 
+## Languages
+
+- PHP
+- SQL
 
 ## Resources
 - [Postman](https://www.postman.com/)
